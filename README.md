@@ -1,2 +1,2 @@
 # Polaris
-a AI learner who study in SDU
+logistic regression 识别猫脸
